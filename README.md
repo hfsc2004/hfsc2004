@@ -21,8 +21,7 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
 <img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons1" src="https://github.com/user-attachments/assets/84a21ff1-f487-4282-9470-3c3dc2c82d8f" />
 
-<img aligh="right" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
-
+<img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="test1" src="https://github.com/user-attachments/assets/94fe7cd0-9136-4622-8697-d0a39c281ca5" />
 
 * Enterprise Networking: Cisco (CCNP/CCNA), Fortinet, Juniper, OSPF/BGP, VLANs, and VPN architecture.
 
@@ -32,7 +31,8 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
 Before moving into AI and robotics , I spent over a decade building, securing, and scaling enterprise infrastructure. My career has taken me from managing Region-Wide ISP networks and designing industrial PLC environments to setting up infrastructure for projects at NASA Michoud and Kennedy Space Center.
 
-<img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="test1" src="https://github.com/user-attachments/assets/94fe7cd0-9136-4622-8697-d0a39c281ca5" />
+
+<img aligh="right" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
 
 
 I enjoy bridging the gap between hardware restrictions and modern software capabilities.📬 Note: AI did NOT help me write this!
