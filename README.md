@@ -19,7 +19,8 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
 * Hardware/EDA: KiCAD, Gerbv, FreeCAD, Blender, 3D Printing.
 
-<img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeuronPCB" src="https://github.com/user-attachments/assets/41b08dee-48bd-47be-b906-4c3d3e4e5d1d" />
+<img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons1" src="https://github.com/user-attachments/assets/84a21ff1-f487-4282-9470-3c3dc2c82d8f" />
+
 <img aligh="right" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
 
 
