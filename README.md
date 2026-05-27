@@ -2,7 +2,7 @@
 
 Systems Engineer & Network Architect | New Orleans, LA
 
-<img width="1122" height="1402" alt="AaronFrench" src="https://github.com/user-attachments/assets/21d50de1-f058-42cd-8f67-18b33cd48bc7" />
+<img width="250" alt="AaronFrench" src="https://github.com/user-attachments/assets/21d50de1-f058-42cd-8f67-18b33cd48bc7" />
 
 👋 Hi there! I'm a full-stack infrastructure engineer who works across the entire 
 hardware and software lifecycle—from routing packets to training edge-AI models.
