@@ -9,7 +9,7 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
 * Agentic AI & Robotics: Currently developing application stacks, middleware, and Mixture of Experts (MoE) integrations for automation and robotics at GSN Robotics. This includes fine-tuning Hugging Face models using LoRA/QLoRA , designing custom PCBs in KiCAD , and 3D printing physical parts.
 
-*  Embedded IoT (Core-CE): Outside of work, I love tinkering with microcontrollers. I've been building open-source frameworks on the ESP32-S3, including a dual-microphone digital stethoscope with edge-AI classification and a custom smart oven PID controller integrated with Home Assistant.
+* Building an advanced framework designed for high-efficiency agentic orchestration pipelines. It bridges the gap between cognitive AI workloads and physical/digital execution by driving workflows to reflex endpoints, utilizing a robust, deterministic control plane to ensure predictable, low-latency performance.
 
 🧰 Tech & Infrastructure Toolkit
 
@@ -23,7 +23,7 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
  🌐 Background in Brief
 
-Before moving into AI and robotics , I spent over a decade building, securing, and scaling enterprise infrastructure. My career has taken me from managing county-wide ISP networks and designing industrial PLC environments to setting up infrastructure for projects at NASA Michoud and Kennedy Space Center.
+Before moving into AI and robotics , I spent over a decade building, securing, and scaling enterprise infrastructure. My career has taken me from managing Region-Wide ISP networks and designing industrial PLC environments to setting up infrastructure for projects at NASA Michoud and Kennedy Space Center.
 
 I enjoy bridging the gap between hardware restrictions and modern software capabilities.📬 
 
