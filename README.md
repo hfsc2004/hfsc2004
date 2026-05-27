@@ -19,6 +19,10 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
 * Hardware/EDA: KiCAD, Gerbv, FreeCAD, Blender, 3D Printing.
 
+<img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeuronPCB" src="https://github.com/user-attachments/assets/41b08dee-48bd-47be-b906-4c3d3e4e5d1d" />
+<img aligh="right" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
+
+
 * Enterprise Networking: Cisco (CCNP/CCNA), Fortinet, Juniper, OSPF/BGP, VLANs, and VPN architecture.
 
 * Systems & Sec: Linux (Debian/Ubuntu), Active Directory, virtualization (Proxmox/VMware), and Red/Blue team security drills.
@@ -26,6 +30,9 @@ hardware and software lifecycle—from routing packets to training edge-AI model
  🌐 Background in Brief
 
 Before moving into AI and robotics , I spent over a decade building, securing, and scaling enterprise infrastructure. My career has taken me from managing Region-Wide ISP networks and designing industrial PLC environments to setting up infrastructure for projects at NASA Michoud and Kennedy Space Center.
+
+<img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="test1" src="https://github.com/user-attachments/assets/94fe7cd0-9136-4622-8697-d0a39c281ca5" />
+
 
 I enjoy bridging the gap between hardware restrictions and modern software capabilities.📬 Note: AI did NOT help me write this!
 
