@@ -3,7 +3,7 @@ Aaron French
 
 <img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="KayakFishing" src="https://github.com/user-attachments/assets/f3ea3456-9975-407e-a900-c286faf63832" />
 
-Hell! I'm a full-stack infrastructure engineer who works across the entire 
+Hello! I'm a full-stack infrastructure engineer who works across the entire 
 hardware and software lifecycle—from routing packets to training edge-AI models.
 
 -- What I'm Working On --
