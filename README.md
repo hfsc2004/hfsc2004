@@ -1,19 +1,18 @@
-🛠️ Aaron French
+Aaron French
+| Systems Engineer & Network Architect | New Orleans, LA
 
-Systems Engineer & Network Architect | New Orleans, LA
 <img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="KayakFishing" src="https://github.com/user-attachments/assets/f3ea3456-9975-407e-a900-c286faf63832" />
 
-
-👋 Hi there! I'm a full-stack infrastructure engineer who works across the entire 
+Hell! I'm a full-stack infrastructure engineer who works across the entire 
 hardware and software lifecycle—from routing packets to training edge-AI models.
 
-🚀 What I'm Working On
+-- What I'm Working On --
 
 * Agentic AI & Robotics: Currently developing application stacks, middleware, and Mixture of Experts (MoE) integrations for automation and robotics at GSN Robotics. This includes fine-tuning Hugging Face models using LoRA/QLoRA , designing custom PCBs in KiCAD , and 3D printing physical parts.
 
 * Building an advanced framework designed for high-efficiency agentic orchestration pipelines. It bridges the gap between cognitive AI workloads and physical/digital execution by driving workflows to reflex endpoints, utilizing a robust, deterministic control plane to ensure predictable, low-latency performance.
 
-🧰 Tech & Infrastructure Toolkit
+-- Tech & Infrastructure Toolkit --
 
 * AI & Robotics: Python, Node.js, ROS2, Gazebo Sim, Transformers, Quantization.
 
@@ -27,7 +26,7 @@ hardware and software lifecycle—from routing packets to training edge-AI model
 
 * Systems & Sec: Linux (Debian/Ubuntu), Active Directory, virtualization (Proxmox/VMware), and Red/Blue team security drills.
 
- 🌐 Background in Brief
+ -- Background in Brief --
 
 Before moving into AI and robotics , I spent over a decade building, securing, and scaling enterprise infrastructure. My career has taken me from managing Region-Wide ISP networks and designing industrial PLC environments to setting up infrastructure for projects at NASA Michoud and Kennedy Space Center.
 
@@ -35,6 +34,6 @@ Before moving into AI and robotics , I spent over a decade building, securing, a
 <img aligh="right" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
 
 
-I enjoy bridging the gap between hardware restrictions and modern software capabilities.📬 Note: AI did NOT help me write this!
+I enjoy bridging the gap between hardware restrictions and modern software capabilities.
 
 Connect with me: hfsc2004@gmail.com
