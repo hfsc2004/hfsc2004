@@ -8,6 +8,8 @@ Hello! I'm a systems engineer working across networking, embedded systems, robot
 
 My background is in large-scale infrastructure and network engineering, but my current work focuses on bringing software, intelligent systems, electronics, and physical hardware together into complete working platforms.
 
+<br clear="left"/>
+
 ## What I'm Working On
 
 * **Agentic AI & Robotics:** Developing application stacks, middleware, distributed control systems, and edge-AI integrations for robotics and automation at GSN Robotics.
@@ -39,6 +41,8 @@ The goal is practical, efficient AI integration with real-world systems.
 
 <img align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="test1" src="https://github.com/user-attachments/assets/94fe7cd0-9136-4622-8697-d0a39c281ca5" />
 
+<br clear="left"/>
+
 ## Background in Brief
 
 Before moving deeper into embedded systems, AI, and robotics, I spent more than a decade designing, securing, and operating enterprise and service-provider infrastructure.
@@ -54,7 +58,9 @@ My work has included:
 
 That background heavily influences how I approach newer systems: reliability, observability, deterministic behavior, and infrastructure that can survive outside the lab.
 
-<img align="right" width="250" style="margin-right: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
+<img align="right" width="250" style="margin-left: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
+
+<br clear="right"/>
 
 ## What Interests Me
 
