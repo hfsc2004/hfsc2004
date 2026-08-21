@@ -6,8 +6,6 @@
 
 Hello! I'm a full-stack infrastructure engineer who works across the entire hardware and software lifecycle, from routing packets to training edge-AI models.
 
-<br clear="left"/>
-
 -- What I'm Working On --
 
 * **Agentic AI & Robotics:** Currently developing application stacks, middleware, and Mixture of Experts (MoE) integrations for automation and robotics at GSN Robotics. This includes fine-tuning Hugging Face models using LoRA/QLoRA, designing custom PCBs in KiCad, and 3D printing physical parts.
@@ -28,8 +26,6 @@ Hello! I'm a full-stack infrastructure engineer who works across the entire hard
 
 * **Systems & Sec:** Linux (Debian/Ubuntu), Active Directory, virtualization (Proxmox/VMware), and Red/Blue team security drills.
 
-<br clear="left"/>
-
 -- Background in Brief --
 
 Before moving into AI and robotics, I spent over a decade building, securing, and scaling enterprise infrastructure. My career has taken me from managing region-wide ISP networks and designing industrial PLC environments to setting up infrastructure for projects at NASA Michoud and Kennedy Space Center.
@@ -37,8 +33,6 @@ Before moving into AI and robotics, I spent over a decade building, securing, an
 <img align="right" width="250" style="margin-left: 15px; margin-bottom: 10px;" alt="FourNeurons" src="https://github.com/user-attachments/assets/d96552fb-1fa9-4770-83c1-4b86d80b3ec9" />
 
 I enjoy bridging the gap between hardware restrictions and modern software capabilities.
-
-<br clear="right"/>
 
 -- What Interests Me --
 
